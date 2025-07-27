@@ -110,9 +110,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Tailwind CSS for beautiful styling
 - All contributors and supporters
 
-## 📞 Support
 
-If you have any questions or need support, please open an issue on GitHub or contact us at support@skillsync.ai
 
 ---
 
